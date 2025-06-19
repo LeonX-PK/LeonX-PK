@@ -11,7 +11,7 @@
 - 🧠 **AR/VR Education System** – Interactive learning using Meta Quest 2
 
 🛠️ Skills:
-- Programming: Python, C++, HTML, JavaScript (basic)
+- Programming: Python
 - Tools: Arduino, Unity, Unreal Engine, GitHub, FlutterFlow, PuTTY
 - Domains: AI, IoT, AR/VR, Data Science, EdTech
 
