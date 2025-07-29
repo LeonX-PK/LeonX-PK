@@ -1,4 +1,4 @@
-👋 Hi, I'm **Prathep Kumar (Leon / Leon_x)**  
+👋 Hi, I'm **Prathep Kumar ** 
 🎓 B.Tech in Artificial Intelligence & Data Science | SNS College of Engineering (2023–2027)  
 📍 From Kotagiri, Tamil Nadu, India
 
